@@ -82,16 +82,16 @@ tbody tr:nth-child(3) {
 }
 @media only screen 
 and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-    /* .container1 {
-        margin: 0;
-        padding: 0;
-    } */
+and (max-device-width : 780px) {
+    .container1 {
+        margin: 0px;
+        padding: 0px;
+    }
     img{
         border-radius: 0;
     }
     .container3{
-        padding-left: 8%;
-        padding-right: 8%;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }
