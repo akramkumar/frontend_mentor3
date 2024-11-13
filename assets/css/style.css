@@ -22,7 +22,7 @@ body{
     color: hsl(332, 51%, 32%);
 }
 .container1{
-    margin: 10% 25% 15% 25%;
+    /* margin: 10% 25% 15% 25%; */
     padding: 2%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 16px;
