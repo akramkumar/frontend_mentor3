@@ -84,8 +84,8 @@ tbody tr:nth-child(3) {
 and (min-device-width : 320px) 
 and (max-device-width : 780px) {
     .container1 {
-        margin: 0px;
-        padding: 0px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
     }
     img{
         border-radius: 0;
